@@ -3,9 +3,7 @@ This repository aims to grow into a comprehensive resource for quantum algorithm
 
 ## Getting Started
 Prerequisites & Installation: 
-# Ensure you have Python 3.12 installed and Qiskit installed in the Scripts folder
-## Check you have correct version of python
-
+### Ensure you have Python 3.12 installed and Qiskit installed in the Scripts folder
 pip install qiskit
 
 ## Contents
