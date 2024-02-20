@@ -12,9 +12,8 @@ pip install qiskit
 Quantum Dataset Generation: Code and tutorials for generating quantum datasets.
  - Script's purpose is to generate datasets for quantum computing tasks
 
-Circuit Designs: Examples of quantum circuit designs for various tasks.
-Quantum Algorithms: Implementations of key quantum algorithms.
-Simulations: Tools and code for simulating quantum circuits.
+
+Under Construction - Circuit Designs / Quantum Algorithms / Simulations
 
 ## Contributing
 We welcome contributions of all forms, from code to documentation improvements. 
