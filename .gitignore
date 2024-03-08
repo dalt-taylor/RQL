@@ -1,0 +1,47 @@
+# Ignore Docker secrets
+secrets.yml
+
+# Ignore Docker build files
+**/Dockerfile
+*.dockerignore
+
+# Ignore Docker environment files
+.env
+.env.*
+
+# Ignore Docker volumes
+**/data
+**/volumes
+
+# Ignore Docker compose override files used for local development
+docker-compose.override.yml
+
+# Ignore Docker temporary files that may be generated during build
+**/.dockerignore
+**/.dbuild/
+**/.dinfo/
+
+# Ignore Docker machine files
+**/.docker/machine/
+
+# Ignore generated image files
+**/image.png
+**/image.jpg
+**/image.jpeg
+**/image.svg
+
+# Ignore additional persistent data
+**/db/
+**/mysql/
+**/postgres/
+**/redis/
+**/mongo/
+
+# Ignore common directories that contain user-specific data
+**/.vscode/
+**/.idea/
+**/.eclipse/
+
+# Ignore all log files
+*.log
+*.out
